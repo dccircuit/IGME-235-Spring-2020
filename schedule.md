@@ -1,4 +1,5 @@
-# IGME-235 Schedule from Fall 2019.  Schedule for Spring 2020 is found in myCourses Content area.
+# IGME-235 Schedule from Fall 2019.  
+## Schedule for Spring 2020 is found in myCourses Content area.
 
 ## Tentative Weekly Topics
 
