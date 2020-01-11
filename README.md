@@ -1,10 +1,8 @@
-# IGME-235-Fall-2019
+# IGME-235-Spring-2020
 
-## Welcome to the Fall 2019 course materials for IGME-235!
+## Welcome to the Spring 2020 course materials for IGME-235!
 
 Available here, you will find:
-- The course [syllabus](syllabus.md) which includes contact information for your Instructors and Teaching Assistants.
-- An approximate course [schedule](schedule.md) (subject to change).
-- A variety of other course materials that will be refined and added to as the semester progresses.
+- Exercises, Homeworks, and Project descriptions.  They will all be linked to from our myCourses shell.
 
 **For due dates and deadlines, always check the Calendar and Assignments lists in your section's mycourses shell.**
