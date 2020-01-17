@@ -29,6 +29,3 @@ Continue working with your partner if you had one or go it alone.  Remember that
   *or*
 - Work further on your own homework by selecting a couple of appropriate images to go along with the game you selected.
 
-
-### Navigation
-[Return to Session 2-3](../sessions/2-3.md)
