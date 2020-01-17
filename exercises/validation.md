@@ -38,8 +38,3 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 or
 - Validate your Homework so far.
 
-
-
-
-### Navigation
-[Return to Session 2-4](../sessions/2-4.md)
