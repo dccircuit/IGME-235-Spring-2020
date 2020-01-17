@@ -10,9 +10,7 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 
     - Add appropriate additional `<h2>`, `<h3>`
 
-    - Turn the Publishing Information into an Unordered List
-    
-    - Turn the Game Genre Information into a Description List (with name/value pairs).
+    - Turn the Publishing Information and Game Genre Information into two separate Unordered Lists
 
     - Add a blockquote for the review excerpt.
 
@@ -39,6 +37,3 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 
 - You probably won't, but if you do, see what you can do to fine-tune your page (keeping in mind that you still don't have styles yet so it won't look like much).
 
-
-### Navigation
-[Return to Session 2-5](../sessions/2-5.md)
