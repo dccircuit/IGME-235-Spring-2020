@@ -38,6 +38,3 @@ This is a team exercise.  Create four person teams.  You will each stay at your 
 ## After presentations are over:
 - If your team did NOT get time to present their findings, post your findings to the class Discord channel for this section.
 - If you found your own good example in one of these categories, add it to the class Discord channel with an explanation for why you picked it.
-
-### Navigation
-[Return to Session 2-1](../sessions/2-1.md)
