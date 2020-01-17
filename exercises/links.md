@@ -30,7 +30,3 @@ Even though, you're moving on to your "235 Home Page" assignment for Homework, l
 - Add a "thumbnail" of the screen shot to the index.html so that when it's clicked on, it goes to the big-view page.
 - Add additional big images that represent the game.
 
-### Navigation
-[Return to Session 2-6](../sessions/2-6.md)
-
-
