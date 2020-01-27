@@ -1,4 +1,4 @@
-# Exercise: Styles
+# Exercise: Starting Styles
 
 We're really moving on to the Presentation layer and learning how to properly add styles to our pages.  
 
@@ -27,8 +27,5 @@ We're really moving on to the Presentation layer and learning how to properly ad
 - The book doesn't cover it for real until the end of Chapter 13, but I think you should be able to move your embedded styles into an external style sheet very easily now.  Just copy and paste them into a new empty text file with a .css extension and then add a `<link>` element into your head section that points at the file.  Here's an example of what that would look like:
     - `<link rel="stylesheet" href="styles/mycssfile.css">` assuming you put your .css file into a subfolder called **styles** -- not that you have to, but it's a common practice.
 
-
-### Navigation
-[Return to Session 3-3](../sessions/3-3.md) or link directly to the [Next Exercise](text.md)
 
 
