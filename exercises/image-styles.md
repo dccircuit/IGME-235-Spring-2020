@@ -4,7 +4,7 @@ Continue working with your partner if you had one or go it alone.  Remember that
 
 ## Do the following:
 1. Download the image linked here: [Dig Dug Screen Shot](dig-dug-burnt.png)
-2. Put it directly in the **game** folder that you created in Exercise 2-2.
+2. Put it directly in the **game** folder that you created in the previous exercise.
 3. Add it to your page by using an `<img>` element.
 4. Preview.
 5. Copy and paste the following `<style>` element into your page.  
