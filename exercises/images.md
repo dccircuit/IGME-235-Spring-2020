@@ -22,7 +22,4 @@ We've got some bitmap images for you to add to your Dig Dug page.
 - Select a better background color to apply.  Just Google for an HTML Color Picker (Google will actually display a simple one for you at the top of the search result page).  You can replace the word `lightblue` with another color such as `#ffe8a8` (that's a hexadecimal color code).
 
 
-### Navigation
-[Return to Session 3-1](../sessions/3-1.md)
-
 
