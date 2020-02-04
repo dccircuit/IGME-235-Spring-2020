@@ -1,3 +1,5 @@
+# THIS IS NOT PROJECT 1 for SPRING 2020!  DO NOT BEGIN WORKING ON PROJECT 1 BEFORE IT IS ANNOUNCED IN CLASS.  (Probably on February 11th)
+
 # Project 1 - Game Proposal Site
 
 ## I. Overview
