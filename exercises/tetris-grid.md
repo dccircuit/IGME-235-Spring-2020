@@ -8,15 +8,15 @@ Start with downloading the starter files located here:  [Tetris Grid Starter Fil
 
 ## Part One - Normalize your CSS with "Bootstrap Reboot"
 
-1. Look over your starter files, open the *directory* in VS Code (right click the folder, r inside of it, and choose Open with Code), and preview the tetris-grid.html in your browser (probably by launching it with Live Server). If you haven't done this before... Figure it out now... Install the LiveServer extension (if it isn't already) and then right-click the file and choose "Open with LiveServer".  If Edge comes up, abort!  You can either change your default browser in windows setting or go into the Settings of VS Code and specify Chrome:  Like so: Ctrl-, (control-comma), Type liveserver in the search box and look for "Custom Browser" with a dropdown menu.  Pheww!
+1. Look over your starter files, open the *directory* in VS Code (right click the folder or inside of it, and -- if it's a choice -- choose Open with Code... if not, use the open folder command from within VS Code), and preview the tetris-grid.html in your browser (probably by launching it with Live Server). If you haven't done this before... Figure it out now... Install the LiveServer extension (if it isn't already) and then right-click the file and choose "Open with LiveServer".  If Edge comes up, abort!  You can either change your default browser in windows setting or go into the Settings of VS Code and specify Chrome:  Like so: Ctrl-, (control-comma), Type liveserver in the search box and look for "Custom Browser" with a dropdown menu.  Pheww!
 
 2. Recall from the reading (Chapter 19) that there are two ways main ways to achieve a "clean slate" in your HTML so that your design can look the same on all browsers despite the potentially different "user agent style sheets":  
     - CSS reset (which overrides and essentially 'zeros out' all style rules... basically starting you out from square one).
     - Normalize.css (which painstakingly adjusts every modern browsers default styles to make them consistent).  
 
-    However, in the 2nd week (Session 2-3), we've already brought up one other style sheet that BUILDS on Normalize, and that's Bootstrap Reboot.  Here's your chance to compare all three:
+    However, in the 2nd week, we've already brought up one other style sheet that BUILDS on Normalize, and that's Bootstrap Reboot.  Here's your chance to compare all three:
 
-3. We've already downloaded and added all three to your CSS directory.  They are ready to link to your starter code... Just uncomment each one one-at-a-time and compare what they do to your starting page.  Let's select "Bootstrap Reboot" to keep using for the rest of the exercise.
+3. We've already downloaded and added all three to your CSS directory.  They are ready to link to your starter code... Just uncomment each one one-at-a-time and compare what they do to your starting page.  Let's select "Bootstrap Reboot" to keep using it for the rest of the exercise.
 
 4. You should probably apply a little margin to the `<body>` tag.  Maybe 1rem?  Nobody likes words bumping up against the edge of something else.  But don't add your new CSS to the bootstrap-reboot.css... Add them to your *own* CSS file.  We've already set it up for you: css/gridstyles.css. It starts out pretty empty!
 
@@ -77,9 +77,9 @@ The playground section will be another grid container of it's own (but we won't 
 
 ## Part Three - Use Image Replacement to add the Tetris Logo
 
-In Chapter 19, you also read about "Image Replacement Techniques"... Right now we have a h1 tag that contains the name of our game, but we have a nice Tetris Logo png file that we'd prefer to have replace the word "Tetris" for most users.  We don't want to just use an image with an alt tag here because we like the semantic meaning of an important `<h1>` tag at the top of the page.
+In Chapter 19, you also read about "Image Replacement Techniques"... Right now we have an h1 tag that contains the name of our game, but we have a nice Tetris Logo png file that we'd prefer to have replace the word "Tetris" for most users.  We don't want to just use an image with an alt tag here because we like the semantic meaning of an important `<h1>` tag at the top of the page.
 
-1. So the book gives the follow example code:
+1. So the book gives the following example code:
 
     ```
     <h1 id="logo">Jenware</h1>
