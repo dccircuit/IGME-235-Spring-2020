@@ -1,4 +1,4 @@
-***PROJECT 1 DRAFT! NOT YET COMPLETE***
+***PROJECT 1 DRAFT! NEARLY COMPLETE, BUT NOT QUITE***
 
 # Project 1 - Portfolio Phase One
 
@@ -26,7 +26,11 @@ You may use the following placeholder "project" in place of your own work.
 Aside from the samples of your work, you should add your contact information & resume...
 
 ## Overall Requirements
-A page named index.html located in the "portfolio" directory in your 235 directory on banjo that includes
+Here is an illustration of the file structure you should use:
+![Project 1 File Structure](_images/Project1Structure2019-235.png "Project 1 File Structure")  
+Your main page for the portfolio site will be the index page for this directory. You must have css and media directories to store the associated files. **Remember:** Our server is case sensitive, so your files **must** use the case indicated in this assignment. If your files are not named and located as instructed, we can't find them, and you will get a 0.
+
+A page named index.html located in the "project1" directory in your 235 directory on banjo that includes
   - A navigation system to allow the user to quickly access distinct content.
   - Your name and an image (could be a photo or an avatar)
   - A *tagline* (see #2 here:https://blog.prototypr.io/10-steps-to-the-perfect-portfolio-website-182b1adcbfc8) - example: "Creative Developer," "Unity/Unreal Game Developer seeking an internship opportunity," etc.
@@ -59,7 +63,7 @@ A page named index.html located in the "portfolio" directory in your 235 directo
 - Notes about the design such as image dimensions you'll need, special notes about how to make updates, things you plan to add for the final version.
 
 ## Submission and Due-Date
-The site must be placed in a portfolio directory inside of your 235 directory (`http://people.rit.edu/youruserid/235/portfolio/`).  (Later, if you wish to make this portfolio your public portfolio for prospective employers to look at, we recommend that you move it to a different URL (not within your 235 subdirectory), but you should wait until you get feedback and a grade for the course)
+The site must be placed in the project1 directory inside of your 235 directory (`http://people.rit.edu/youruserid/235/project1/`).  (Later, if you wish to make this portfolio your public portfolio for prospective employers to look at, we recommend that you move it to a different URL (not within your 235 subdirectory, such as http://people.rit.edu/youruserid/portfolio or just http://people.rit.edu/youruserid), but you should wait until you get feedback and a grade for the course)
 - You should have a prototype version of your portfolio posted to your banjo account (at the URL above) by the date of the Project 1 Prototype Assignment on myCourses.  Include this link in the comments field.
 - ZIP and upload your portfolio files (so far) as well.
 - Your final submission must also include the URL to your online documentation in the comments field of the dropbox.
