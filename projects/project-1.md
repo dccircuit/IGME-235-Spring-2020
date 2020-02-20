@@ -1,4 +1,4 @@
-***PROJECT 1 DRAFT! NEARLY COMPLETE, BUT NOT QUITE***
+***Except for a more detailed rubric to be posted soon, this is ready***.
 
 # Project 1 - Portfolio Phase One
 
@@ -52,8 +52,14 @@ A page named index.html located in the "project1" directory in your 235 director
 - The initial "landing" on the page should be compelling, ideally with a tag line and page design that "pulls" the user in. 
 	
 ## Technology Requirements
-- Semantic, valid HTML
-- Well-structured, valid CSS
+- Semantic structural tags like `<header>, <section>, <article>, <nav>`, and `<footer>` should be used appropriately.
+- Try to use a consistent structure on your page(s) by repeating many of your design elements - for example: the `<header>, <footer>` and `<nav>` elements should be in the same places on each page/section and have the same colors, fonts and spacing.
+- Reasonably valid HTML - Any error or warning that could easily be addressed should be addressed - focus on errors, less on warnings. 
+- CSS selectors and rules will be used for formatting and positioning.
+- Most (if not all) of the style rules will be located in an external style sheet.
+- There will be at least 10 style declarations (rules) in your external style sheet.  Use _class and ID_ selectors as appropriate.
+- Utilize custom link styles on all your pages by utilizing the `a:link, a:visited, a:focus, a:hover,` and `a:active` selectors.
+- Reasonably valid CSS - see note for HTML above.
 - Images and other media are properly optimized (both file size, image format, and image dimensions) for screen display
 
 ## Documentation Requirements 
