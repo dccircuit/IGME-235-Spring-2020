@@ -1,5 +1,3 @@
-***Except for a more detailed rubric to be posted soon, this is ready***.
-
 # Project 1 - Portfolio Phase One
 
 One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating games and interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
