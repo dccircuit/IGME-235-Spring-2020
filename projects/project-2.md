@@ -46,9 +46,8 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
     - The Amiibo API*: http://www.amiiboapi.com
         - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
     - REST Countries: https://restcountries.eu/
-    - Foreign Exchange Rates API: https://exchangeratesapi.io/
     - TheMealDB API: https://www.themealdb.com/api.php
-  - You can make pretty much any experience you like as long as it captures a user request, gets data from the API, and then presents it back in a way that is useful or fun, easy to understand, and fairly organized. 
+  - You can make pretty much any experience you like as long as it captures a user request, gets data from the API, and then presents it back in a way that is useful or fun, easy to understand, and fairly well organized. 
         
 #### Choose Your Own API Option
 - This choice is for the more adventurous students who want to try to go beyond the well-trodden paths and look for an alternative API that appeals to them.
