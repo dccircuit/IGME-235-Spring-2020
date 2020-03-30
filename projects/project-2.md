@@ -2,7 +2,7 @@
 
 ## I. Overview
 
-For this project you (and, preferably, a partner) are creating a JavaScript driven Web application that utilizes a Web service.
+For this project you (and, optionally, a partner) are creating a JavaScript driven Web application that utilizes a Web service.
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a [web browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) context. 
@@ -66,6 +66,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field.
     - ideally this will also be true of the other controls, but we won't require it.
+    - if there isn't a 'search term' to save in your project, then save something else and be sure to document what is saved from visit to visit.
 
 3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, GIF Finder has these controls:
     - a search button (which doesn't count)
@@ -120,7 +121,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 - Delete or comment out any `console.log()` calls.
 
 ## III. Milestones
-- Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
+- Project proposal with mockup - see myCourses for due date/time. If working together, one submission per team please. Make sure both team members' names are included.
 - Prototype - You should have a working version of your project for others to provide feedback on.  At a bare minimum, you should demonstrate functionality of your API call with results displayed on screen.  see myCourses for due date/time. 
 - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
