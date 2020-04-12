@@ -5,9 +5,9 @@
 ## I. Overview
 *Using PixiJS and/or the Browser DOM, create an Interactive Game or Rich Media "experience"*:
 
-- For this project you (and, preferably, a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1.
-- You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
-    - When working with a partner, this means that only one website between you will need to be updated.  You can choose to build either of your two games, create an entirely new one, or maybe make a mashup of your two ideas(!?).
+- For this project you (and, potentially, a partner) are creating a JavaScript-driven game or experience.
+- You will be proposing an idea and describing it on a nicely formatted web page which will include the elements described below:
+    - If you work with a partner, only one proposal web page between you will need to be created. 
 - If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2019/blob/master/exercises/projects.md).
 
 You will use **ONE** of these technology stacks:
@@ -36,6 +36,7 @@ You will use **ONE** of these technology stacks:
     - your creativity
     - the quality of the experience you create
     - the soundness of your programming in your chosen tech stack
+        - don't miss the requirement to include an ES6 `class` somewhere in your project
     - how far you went beyond what we did in class, as described below
 
 ## III. Requirements
@@ -45,7 +46,6 @@ You will use **ONE** of these technology stacks:
 - Your game or app should do something useful, and be easy to use
 - The functionality goes beyond what we have done in similar in-class examples
 - There will be no JavaScript errors or exceptions thrown by the app
-- You must utilize an additional HTML5 feature, like localStorage (for high scores), drag and drop, or location services
 
 ### B. Design & Interaction
 - Pleasing graphic design
@@ -59,15 +59,15 @@ You will use **ONE** of these technology stacks:
 - you have changed the fonts, graphics, spritesheets, and sounds from what was provided in the in-class examples
 
 ### D. HTML/CSS
-- Valid HTML5 - https://html5.validator.nu/
-- Valid CSS - https://jigsaw.w3.org/css-validator/
+- Reasonably Valid HTML5 - https://html5.validator.nu/
+- Reasonably Valid CSS - https://jigsaw.w3.org/css-validator/
 - Most CSS is in an external style sheet
 - Use HTML5 semantic and structural elements where practical
 
 ### E. Code Conventions
+- Utilize at least one ES6 `class` of your own creation
 - `let` and `const` (no `var`!)
 - `querySelector()` and `querySelectorAll()` for DOM traversal (DO NOT use the older methods)
-- Utilize at least one ES6 `class` of your own creation
 - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code should be factored out and placed in a separate function.
 - Separation of Concerns. Similar to how the *Circle Blast!* HW was structured, have a separate .js file for your classes, utility functions, and main code. If you have more than 3 CSS rules, then put them in an external stylesheet
 - Variable and function names must begin with a lowercase letter
@@ -75,28 +75,37 @@ You will use **ONE** of these technology stacks:
 - Delete or comment out your `console.log()` calls
 
 ## IV. Milestones
-- Proposal: Update your site from Project 1 to reflect what you are building for this project - see MyCourses dropbox for the due date
-- Checkpoint: create a working draft of the project - see MyCourses dropbox for the due date
-- Final project deliverable is due final exam week - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the mycouses dropbox.
-
+- Proposal: Post a simple web page anywhere in your banjo account that provides the information described above about what you plan to create for your game. - see myCourses dropbox for submission info & the due date
+- Checkpoint: Create a working draft of the project. Post it to the #project-3-critiques channel in our Discord server - see myCourses dropbox for the due date
+- Final project deliverable is due final exam week - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the myCourses dropbox. 
+    - Part of the final deliverable includes a demonstration of your game.  You may do this in one of two ways:
+        1. You may create a short video demo by recording your computer screen while using a tool such as OBS.  http://obsproject.com
+ Submit this video by uploading it to YouTube as an unlisted video.  Ideally, you should explain your project with a voice-over, however if you do not wish to do that, you can upload your description as a separate file to the dropbox.
+        1. You may schedule a Zoom or Discord chat with the professor on either May 4th or May 5th.
 
 ## V. Documentation
-- Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
+- Add your documentation to the same web page that you previously created for your proposal. Include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
-## VI. Presentation
+## VI. Video Demonstration
 During final exam week, you will present your project in a brief demo. Plan to show us:
-- What you made
+- What you made.
+- How it works.
 - What's cool, and what you think is "above and beyond"
-- How you overcame any serious challenges
+- How you overcame any serious challenges.
 - Resources utilized (for libraries, tutorials, etc.), if you used any.
+
+**You have two alternatives for how to deliver this demo as described above in the Milestones section.**
 
 ## VII. Grading
 - *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 ### Your project grade will be split into two parts.
-- 2/3 of your overall score will be assessed during the presentation you give that occurs during Finals Week.
-- 1/3 of your overall score will be assessed separately based on your required submission.
+- 1/2 of your overall score will be assessed based on the video demo that you provide.
+- 1/2 of your overall score will be assessed separately based on your required file submission.
+
+Still working below this line:
+-------------
 
 #### The Rubric for the Presentation Day can be found in myCourses soon (if not already -- choose the new "Rubrics" menu item next to "Grades" and click on the "Preview" item in the pull-down next to the Project 3 rubric(s))
 
