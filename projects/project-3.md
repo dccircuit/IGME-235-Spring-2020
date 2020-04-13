@@ -1,12 +1,10 @@
 # Project 3 - Web-based Game or Experience
 
-***Except for the details about the rubrics at the end, this is updated for Spring 2020's asynchronous format***
-
 ## I. Overview
 *Using PixiJS and/or the Browser DOM, create an Interactive Game or Rich Media "experience"*:
 
 - For this project you (and, potentially, a partner) are creating a JavaScript-driven game or experience.
-- You will be proposing an idea and describing it on a nicely formatted web page which will include the elements described below:
+- You will be proposing an idea and describing it on a nicely formatted "proposal/about" web page which will include the "game treatment" elements described below:
     - If you work with a partner, only one proposal web page between you will need to be created. 
 - If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2019/blob/master/exercises/projects.md).
 
@@ -75,7 +73,7 @@ You will use **ONE** of these technology stacks:
 - Delete or comment out your `console.log()` calls
 
 ## IV. Milestones
-- Proposal: Post a simple web page anywhere in your banjo account that provides the information described above about what you plan to create for your game. - see myCourses dropbox for submission info & the due date
+- Proposal: Post a simple "proposal/about" web page in your banjo account (under project3/about.html would be a good place) that provides the information described in the next section about what you plan to create for your game. - see myCourses dropbox for submission info & the due date
 - Checkpoint: Create a working draft of the project. Post it to the #project-3-critiques channel in our Discord server - see myCourses dropbox for the due date
 - Final project deliverable is due final exam week - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the myCourses dropbox. 
     - Part of the final deliverable includes a demonstration of your game.  You may do this in one of two ways:
@@ -83,11 +81,31 @@ You will use **ONE** of these technology stacks:
  Submit this video by uploading it to YouTube as an unlisted video.  Ideally, you should explain your project with a voice-over, however if you do not wish to do that, you can upload your description as a separate file to the dropbox.
         1. You may schedule a Zoom or Discord chat with the professor on either May 4th or May 5th.
 
-## V. Documentation
-- Add your documentation to the same web page that you previously created for your proposal. Include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
+## V. Proposal
+We would like you to write a brief game treatment for your Project 3 Proposal:
+
+Here are some elements/sections to include:
+
+You may format this in any way that you want, but break each bulleted item below into a separate paragraph at least.  Feel free to label the paragraphs with headings.
+
+- Give your game/experience a name. It can be changed later. Put it at the top of your page.
+- Add a High Concept: A 1-3 sentence description that pitches and summarizes your game.  Examples in link below.
+- Genre: Identify the genre(s) the experience belongs to. There are sample lists of genres provided in the link below.
+- Platform: Desktop web, mobile web, both, other?
+- Story: Is it purely abstract or is there a deeper premise/theme/narrative/motivation?
+- Aesthetics: How would you describe the desired graphic style... You might not make it there, but what are you aiming for?
+- Gameplay: Discuss what choices the player will be able to make and what kind of control they have to make those choices.  How will the player learn how to play?  
+- Mockups: Provide at least 2 mockup screens of the game.  They can be hand-drawn sketches captured on a phone camera, Photoshop mockups, etc.  Use <img> tags and reduce the size of the image so that aren't downloaded at ridiculously high resolutions.  (no more than twice the desired pixel dimensions ont he page).
+- Other: Anything else that you like to say, like discuss external libraries you'd like to use, etc.
+- About the developer(s): Give your name/major/minor/year and your skill set/interests.  Partnering?  Explain how and why you'll be working together as a team.
+
+Here is a template document of sorts, once used in another class. It contains some extra examples and tips for what we're looking for. You should only really pay attention to the part above the first thick red line:  http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html The rest of it was for another assignment specific to that course.
+
+## VI. Documentation
+- When you're ready to hand in your document (and actually throughout the development process), add your documentation to the same web page that you created just above for your proposal. Include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements.
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
-## VI. Video Demonstration
+## VII. Video Demonstration
 During final exam week, you will present your project in a brief demo. Plan to show us:
 - What you made.
 - How it works.
@@ -97,25 +115,17 @@ During final exam week, you will present your project in a brief demo. Plan to s
 
 **You have two alternatives for how to deliver this demo as described above in the Milestones section.**
 
-## VII. Grading
+## VIII. Grading
 - *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 ### Your project grade will be split into two parts.
 - 1/2 of your overall score will be assessed based on the video demo that you provide.
 - 1/2 of your overall score will be assessed separately based on your required file submission.
 
-Still working below this line:
--------------
+### The grading rubrics for each part of this assignment are attached to the
+- Project 3 - Final Code Submission
+- Project 3 - Video Demo Link
 
-#### The Rubric for the Presentation Day can be found in myCourses soon (if not already -- choose the new "Rubrics" menu item next to "Grades" and click on the "Preview" item in the pull-down next to the Project 3 rubric(s))
+assignments in myCourses.  
 
-#### The Second Rubric is in development but will contain the following list of criteria:
-- Additional HTML5 technology is present
-- Includes at least one ES6 Class of your own creation
-- Related HTML & CSS are reasonably valid
-- Prevents and handles errors well
-- Images are optimized.
-- Proposal was updated on time.
-- Prototype was available for critique.
-- Documentation.
-
+Please review them before you get deep into your project development.
