@@ -1,4 +1,4 @@
-# Project 3 - Sprite-based Game or Experience
+# Project 3 - Web-based Game or Experience
 
 ***Except for the details about the rubrics at the end, this is updated for Spring 2020's asynchronous format***
 
