@@ -11,7 +11,7 @@ Let's adjust our colors (without killing our eyes).
         - Try "Explore" and see if anything grabs you.  Note the "Picks" and "Best" sections for some vetted possibilitlies.
         - Try uploading an image from your page.  Back in "Generate" click the camera icon
         - If you like part of a palette, but not all of it, try "locking" the ones you like and hitting space to generate some other possibilities.
-        - Click export and choose .png (or .svg?) to get an image file that you can easily reference and/or sample from in the future.
+        - Click export and choose 'Image' (or 'SVG'?) to get an image file that you can easily reference and/or sample from in the future.
         - Keep in mind that you might be best off only using 2 or 3 of the colors in your palette along with a nice neutral white or off-white along with your other colors.
         
 2. Pick one of your lightest, most neutral colors (or just use white if you don't have one that's suitable) and make it your new page background color.  Use the **background-color** property of the `<body>` element.
@@ -25,9 +25,6 @@ Let's adjust our colors (without killing our eyes).
 4. Finally, use one of your stronger colors as a new color for your text links.  Redefine the link colors in the proper order so that you don't have anything still in the default link color any more.
     - Hint: Lord Vader's Former Handle, Anakin.
 
-## If you get done early:
+## If you are so inclined:
 - If you haven't already, move that style sheet to an external file and make sure it applies to your other "big picture" page as well.
-
-### Navigation
-[Return to Session 3-5](../sessions/3-5.md) or straight to the [Next Exercise](boxmodel.md)
 
