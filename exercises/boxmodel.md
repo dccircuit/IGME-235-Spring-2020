@@ -21,7 +21,12 @@ Let's work with the box model.  Also, prepare to say good-bye to Dig Dug.  This 
 
 1. Add padding and margins as necessary to make it so that backgrounds and borders added to things like your footer or your publishing information list are not too close to the content within the container, etc.
 
-## If you get done early:
+## If you are so inclined:
+
 - Add a nice repeating background image behind the main content area.
-- Basically clean things up as much as you can... In our next session we'll be asking you to zip up (and post to banjo) all that you (and your partner if you had one) got done and submit it for your HTML ICE Work "Assignment".  Keep in mind that you don't have to have it all done... We just want to see that you got some of the things we asked for in each exercise done.
+- Basically clean things up as much as you can... 
+
+## Upload and submit your finished lab files:
+
+In our next session we'll be asking you to zip up (and post to banjo) all that you (and your partner if you had one) got done and submit it for your HTML ICE Work "Assignment".  Keep in mind that you don't have to have it all done... We just want to see that you got some of the things we asked for in each exercise done.
 
