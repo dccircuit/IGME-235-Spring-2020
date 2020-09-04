@@ -9,11 +9,11 @@ Let's modify our text a bit.
 
 1. Add a Web Font to your page from *Google Fonts*.  Apply it to your **headings**.
     - Helpful steps:
-        - Go to http://fonts.google.com
-        - Pick something interesting (click on "+ Select this style" next to the version you want to use)
-        - In the "Selected Family" overlay that appears, click them embed tab.
-        - Copy and Paste the standard link into your `<head>`
-        - Copy the provided **font-family** declaration into your heading style rule(s)
+        1. Go to http://fonts.google.com
+        1. Pick something interesting (click on "+ Select this style" next to the version you want to use)
+        1. In the "Selected Family" overlay that appears, click them embed tab.
+        1. Copy and Paste the standard link into your `<head>`
+        1. Copy the provided **font-family** declaration into your heading style rule(s)
 
 1. Try adding a universal selector to your style rules and adding a "1px solid gray" **border** to everything.  See what it looks like, but don't leave it there.
     - Hint, the universal selector is a single character.
