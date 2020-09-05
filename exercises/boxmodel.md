@@ -28,5 +28,5 @@ Let's work with the box model.  Also, prepare to say good-bye to Dig Dug.  This 
 
 ## Upload and submit your finished lab files:
 
-Whew, that was a lot!  Keep in mind that you don't have to have it *all* done... We just want to see that you got some of the things we asked for in each exercise done.  Move on to [The End of Dig Dug](end-of-digdug.md) for instructions about what to do next.
+In our next session we'll be asking you to zip up (and post to banjo) all that you (and your partner if you had one) got done and submit it for your HTML ICE Work "Assignment".  Keep in mind that you don't have to have it all done... We just want to see that you got some of the things we asked for in each exercise done.
 
